@@ -1,4 +1,4 @@
-# The Pig Game 🐷
+# The Pig Game 🎲🐷🎲
 Fun two player game with dice in the center 🎲🎲
 
 
