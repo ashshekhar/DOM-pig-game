@@ -1,5 +1,5 @@
 # The Pig Game 🎲🐷🎲
-Fun two player game with dice in the center 🎲🎲
+Fun two player game with dice in the center
 
 
 ## Rules of the game
