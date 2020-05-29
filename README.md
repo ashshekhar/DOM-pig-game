@@ -12,10 +12,7 @@ Fun two player game with dice!
 - They can also change the maximum score during the game
 - The first player to reach the winning score on their `final score` wins the game
 
-## How can I play?
+## Game UI 
 
-To play, just follow ->  [this link](https://ashshekhar.github.io/DOM-pig-game/)
-
-Also, enclosing a beautiful screenshot from the game!
-
-![screen shot 2017-07-28 at 20 37 58](https://user-images.githubusercontent.com/9334646/28731546-a533f564-73d4-11e7-88b9-2f34766c2c7a.png)
+![screen shot 2017-07-28 at 20 37 58]()
+ 
