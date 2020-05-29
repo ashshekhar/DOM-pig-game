@@ -13,5 +13,5 @@ Fun two player game with dice!
 
 ## Game UI 
 
-![screen shot 2017-07-28 at 20 37 58]()
+![screen shot 2017-07-28 at 20 37 58](https://github.com/ashshekhar/DOM-pig-game/blob/master/game.jpg)
  
